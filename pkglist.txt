@@ -33,7 +33,6 @@ intel-media-driver
 intel-ucode
 kitty
 libpulse
-librewolf-bin
 libva-intel-driver
 linux
 linux-firmware
@@ -68,7 +67,6 @@ system-config-printer
 thunar
 thunar-archive-plugin
 thunar-volman
-ttf-jetbrains-mono-nerd
 tumbler
 tuned
 tuned-ppd
@@ -135,6 +133,4 @@ xorg-xwayland
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
-yay
-yay-debug
 zram-generator
