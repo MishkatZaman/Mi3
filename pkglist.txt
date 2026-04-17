@@ -1,7 +1,6 @@
 acpi
 base
 base-devel
-bibata-cursor-theme-bin
 bleachbit
 bluez
 bluez-utils
