@@ -3,7 +3,7 @@ A lazy way to store my minimal Archlinux i3 dotfiles so I can recover my bare sy
 made on my potato laptop to make it work faster as I had more important stuff on desktop
 Its minimal uses like 300 mb on idle
 Its a minimal black & white theme
-
+![i3 desktop](screenshot.png)
 
 ## Requirements
 Archlinux minimal installed(either via archinstalled script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop),wifi setted up.
