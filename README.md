@@ -102,7 +102,7 @@ do this for proper mouse cursor view:
 ```bash
 xrdb ~/.Xresources
 ```
-### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
+### There's a tmp file inside .local. kindly delete that.
 
 # ⌨️ i3 Keybindings (Mod4 = Super key)
 
