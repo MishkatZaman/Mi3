@@ -63,6 +63,7 @@ move .Xresources to ~/
 ```bash
 mv ~/Mi3/.Xresources ~/
 xrdb ~/.Xresources
+```
 
 3. install the pacman and yay packages.
    for pacman
