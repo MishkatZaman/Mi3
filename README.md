@@ -100,7 +100,6 @@ do this for proper mouse cursor view:
 xrdb ~/.Xresources
 ```
 ### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
-## REBOOT
 
 # ⌨️ i3 Keybindings (Mod4 = Super key)
 
