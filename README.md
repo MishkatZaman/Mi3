@@ -5,8 +5,9 @@ feel free to edit stuff or copy it as you need.
 
 made on my potato laptop to make it work faster as I had more important stuff on desktop
 
-Its minimal uses like 300 mb on idle
-Its a minimal black & white theme
+Its minimal uses like 300 mb on idle.
+
+Minimal black & white theme
 ![i3 desktop](Pictures/screenshot/screenshot.png)
 
 ## Requirements
