@@ -81,6 +81,9 @@ two of the screenshot scripts (use sudo if gets error)
 cd ~/.local/bin
 chmod +x screenshot-select.sh screenshot.sh
 ```
+##Extra
+for laptops you need to go into ~/.cofnig/i3status/i3status.conf and remove "#" from "#order += "battery all""
+
 Now reboot the system.
 after rebooting start i3 session and from lxappearance select Materia-dark on widget, Papirus-Dark on icon and Bibata-Modern-Ice on mouse cursor.
 ### There's three tmp files inside .local, Pictures and Pictures/screenshot. kindly delete them. If i do my files gets messed up on github
