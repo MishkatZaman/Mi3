@@ -19,40 +19,47 @@ rm -rf yay
 ```
 
 ## Installation 
-1. cd into the the newly cloned folder (DO NOT GO OUT OF THIS BEFORE FINISHING THIS MANNUAL SETUP)
-2. copy all the files inside .config to your ~/.config
+Clone the repo
 ```bash
-cp -r .config/* ~/.config/
+cd ~
+git clone https://github.com/notmish/Mi3.git
+```
+1. cd into the the newly cloned folder ~/Mi3 (DO NOT GO OUT OF THIS BEFORE FINISHING THIS MANNUAL SETUP)
+2. copy all the files inside (in case folders dosent exists then create them!) .config to your ~/.config
+```bash
+cp -r ~/Mi3/.config/* ~/.config/
 ```
 move .fehbg to ~/
 ```bash
-mv .fehbg ~/
+mv ~/Mi3/.fehbg ~/
 ```
 move .local to ~/
 ```bash
-mv .local/* ~/.local/
+mv ~/Mi3/.local/* ~/.local/
 ```
 move Pictures to ~/
 ```bash
-mv Pictures ~/
+mv ~/Mi3/Pictures ~/
 ```
 move .bashrc to ~/
 ```bash
-mv ~/.bashrc ~/.bashrc.backup
-cp .bashrc ~/.bashrc
+mv~/.bashrc ~/.bashrc.backup
+cp ~/Mi3/.bashrc ~/.bashrc
 ```
 move picom.conf to /etc/xdg/
 ```bash
-sudo mv picom.conf /etc/xdg/
+sudo mv ~/Mi3/picom.conf /etc/xdg/
 ```
 
 3. install the pacman and yay packages.
    for pacman
 ```bash
+cd ~/Mi3
 sudo pacman -S --needed - < pkglist.txt
 ```
   for yay
 ```bash
+cd ~/Mi3
 yay -S --needed - < aur-pkglist.txt
 ```
 4. make all the executables executable for useage(use sudo if shows error)
