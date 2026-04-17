@@ -59,6 +59,10 @@ move picom.conf to /etc/xdg/
 sudo mv ~/Mi3/picom.conf /etc/xdg/
 ```
 if youre on virtual machine make sure to turn off vsync on picom.conf else picom wont work
+move .Xresources to ~/
+```bash
+mv ~/Mi3/.Xresources ~/
+xrdb ~/.Xresources
 
 3. install the pacman and yay packages.
    for pacman
