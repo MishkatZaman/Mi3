@@ -101,7 +101,7 @@ cd ~/.local/bin
 chmod +x screenshot-select.sh screenshot.sh
 ```
 ## Extra
-for laptops you need to go into ~/.cofnig/i3status/i3status.conf and remove "#" from "#order += "battery all""
+for laptops you need to go into ~/.config/i3status/i3status.conf and remove "#" from "#order += "battery all""
 
 ## SDDM
 I use sddm so I dont have xinit or stuff. 
