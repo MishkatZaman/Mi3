@@ -55,7 +55,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 polkit-gnome
-prismlauncher
 qt6-multimedia-ffmpeg
 qt6-svg
 qt6-virtualkeyboard
