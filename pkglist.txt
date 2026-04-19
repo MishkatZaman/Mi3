@@ -10,7 +10,6 @@ cava
 cmatrix
 cups
 cups-pk-helper
-dmenu
 dunst
 efibootmgr
 fastfetch
