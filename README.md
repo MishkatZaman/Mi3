@@ -52,6 +52,7 @@ cd ~/Mi3
 ./auto-install.sh
 ```
 
+Follow through all the steps.
 Reboot and and select i3 from sddm or your preferred login manager.
 
 ## Mannual Installation 
