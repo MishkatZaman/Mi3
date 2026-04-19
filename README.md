@@ -35,7 +35,7 @@ rm -rf yay
 ## Auto Installation (Not recommended)
 this install is only recommended for Archlinux minimal fresh installed systems.
 Always read scripts before running blindly!
-1. clone the repo from ~/
+1. clone the repo at ~/
 ```bash
 cd ~
 sudo pacman -S git
