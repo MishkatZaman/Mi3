@@ -25,6 +25,12 @@ Minimal black & white theme
 ## Requirements
 Archlinux minimal installed(either via archinstall script or mannual), yay installed, all graphics drivers, bluetooth, touchpad(for laptop), wifi setted up.
 
+It is required to update the system using
+```bash
+sudo pacman -Syu
+```
+before continuing.
+
 ### Install yay (AUR helper)
 ```bash
 sudo pacman -S --needed git base-devel
