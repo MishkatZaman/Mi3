@@ -1,7 +1,6 @@
 acpi
 base
 base-devel
-bleachbit
 bluez
 bluez-utils
 brightnessctl
@@ -11,7 +10,6 @@ cmatrix
 cups
 cups-pk-helper
 dunst
-efibootmgr
 fastfetch
 feh
 ffmpegthumbnailer
@@ -27,8 +25,6 @@ i3-wm
 i3blocks
 i3lock
 i3status
-intel-media-driver
-intel-ucode
 kitty
 libpulse
 libva-intel-driver
@@ -59,7 +55,6 @@ qt6-virtualkeyboard
 rofi
 sddm
 slop
-sudo
 system-config-printer
 thunar
 thunar-archive-plugin
@@ -71,17 +66,12 @@ udisks2
 ufw
 vim
 vlc
-vulkan-intel
-vulkan-radeon
 wireless_tools
 wireplumber
 wpa_supplicant
 xclip
 xdg-desktop-portal
 xdg-desktop-portal-gtk
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-vesa
 xfce4-power-manager
 xorg-bdftopcf
 xorg-docs
