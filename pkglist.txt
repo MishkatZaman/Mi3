@@ -57,8 +57,6 @@ thunar
 thunar-archive-plugin
 thunar-volman
 tumbler
-tuned
-tuned-ppd
 udisks2
 ufw
 vim
